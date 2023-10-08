@@ -1,1 +1,1 @@
-from scripts.noun import request_amount
+from scripts.search import request_type

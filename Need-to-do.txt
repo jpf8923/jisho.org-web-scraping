@@ -1,0 +1,16 @@
+add pipreqs to path
+add options to input
+use word count instead of page count
+add only new option to generate new words only
+    - will need to use cached word amount to compare values
+    - global.csv
+    - recent.csv
+add more scripts for usage
+add a GUI
+Multi optional input
+make a json file with the data to make extracting it easier 
+git ignore __pycache__
+
+notes
+keep global.csv broken into catagories to make checking for duplicates quicker
+
